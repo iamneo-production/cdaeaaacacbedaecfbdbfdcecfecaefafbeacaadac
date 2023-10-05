@@ -1,0 +1,13 @@
+class School {
+    public void test1(){
+        System.out.println("Hello this is School class");
+
+    }
+
+}
+class student extends School  {
+    public void test2(){
+        System.out.println("")
+    }
+
+}
