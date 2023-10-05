@@ -7,7 +7,11 @@ class School {
 }
 class student extends School  {
     public void test2(){
-        System.out.println("")
+        System.out.println("Hello this is student class");
     }
 
+}
+
+class TestMain{
+    
 }
